@@ -12,5 +12,6 @@ To show my Course Work please chekc Out this repo:
 - **Course Three:** Introduction to Version Control
 <a href="https://github.com/sondosaabed/Nano-Degree-3rd-Project">Introduction to Version Control</a>
 
+![Screenshot 2023-09-21 205959](https://github.com/sondosaabed/Nanodegree-Programming-for-Data-Science-with-Python/assets/65151701/a3e8e16e-72a4-48dc-8ace-f536cad9c363)
 
 ![image](https://github.com/sondosaabed/NanoDegree-Data-Science-with-Python/assets/65151701/8140917d-b776-4e48-ad5d-59a28fa91404)
